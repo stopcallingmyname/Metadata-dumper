@@ -15,4 +15,4 @@ To use this library to dump the encrypted metadata file of a Unity game, you nee
 
 Note that this process requires some knowledge of reverse engineering and DLL injection. 
 It should only be done for research or educational purposes and not for any illegal or malicious activities. 
-Also, keep in mind that not all Unity games may use the same metadata file encryption scheme or file path, so some modifications may be required based on the game being analyzed
+Also, keep in mind that not all Unity games may use the same metadata file encryption scheme or file path, so some modifications may be required based on the game being analyzed.
