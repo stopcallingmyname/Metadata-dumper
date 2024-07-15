@@ -9,7 +9,7 @@ To use this library to dump the encrypted metadata file of a Unity game, you nee
 - Download or clone the repository from GitHub.
 - Build the DLL library using Visual Studio or any other compatible compiler. 
 - Make sure to select the correct configuration (x86 or x64) based on your system and game.
-- Open the Unity game's assembly DLL in a disassembler such as dnSpy.
+- Open the Unity game's assembly DLL in a disassembler such as IDA.
 - Identify the function that loads the metadata file and note its signature or pattern.
 - Inject the built DLL library into the game's process using a tool such as Extreme Injector or Cheat Engine.
 
